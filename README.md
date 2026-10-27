@@ -1,7 +1,7 @@
 # AI-Search-Algorithms
 Comparison of uninformed and informed search algorithms using a weighted route-finding graph.
 
-Algorithms
+# Algorithms
 
 Breadth-First Search (BFS)
 
@@ -13,7 +13,7 @@ A* Search
 
 Greedy Best-First Search (GBFS)
 
-Experiments
+# Experiments
 
 Comparison of algorithm performance on the original graph.
 
@@ -21,7 +21,7 @@ Evaluation using a modified, non-admissible heuristic.
 
 Testing on a larger graph.
 
-Files
+# Files
 
 route_search.py — Python implementation of all five algorithms.
 
